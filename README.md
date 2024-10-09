@@ -22,7 +22,11 @@ Run Playwright tests using AI with `auto-playwright`.
 
 ## Pricing Details
 1. You need to purchase the API key online, there are costs associated with using OpenAI. You can find more pricing information here: https://openai.com/pricing/.
-2. Recommend using gpt-4 and above version to make your tests work without errors 
+2. Recommend using gpt-4 and above version to make your tests work without errors
+
+## Screenshot of test results
+![Screenshot_9-10-2024_1362_localhost](https://github.com/user-attachments/assets/ac800611-21da-4987-9990-e68207705379)
+
 
 ## Video Grab showing test results of all the test cases run using Playwright Auto
 
