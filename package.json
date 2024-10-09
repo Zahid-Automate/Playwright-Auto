@@ -1,0 +1,21 @@
+{
+  "name": "playwright-auto",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.48.0",
+    "@types/node": "^22.7.4",
+    "@types/sanitize-html": "^2.13.0",
+    "auto-playwright": "^1.16.0"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "playwright": "^1.48.0",
+    "sanitize-html": "^2.13.1"
+  }
+}
